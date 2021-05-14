@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18241" started-at="2021-05-14T15:07:48 PDT" finished-at="2021-05-14T15:08:06 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18241" started-at="2021-05-14T15:07:48 PDT" finished-at="2021-05-14T15:08:06 PDT">
+      <class name="com.testngfile.TestNGAssignment">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testngfile.TestNGAssignment@64ec96c6]" name="beforeTest" is-config="true" duration-ms="3665" started-at="2021-05-14T15:07:48 PDT" finished-at="2021-05-14T15:07:52 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.testngfile.TestNGAssignment@64ec96c6]" name="login" duration-ms="7023" started-at="2021-05-14T15:07:52 PDT" finished-at="2021-05-14T15:07:59 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="signout()[pri:2, instance:com.testngfile.TestNGAssignment@64ec96c6]" name="signout" duration-ms="7470" started-at="2021-05-14T15:07:59 PDT" finished-at="2021-05-14T15:08:06 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.testngfile.TestNGAssignment@64ec96c6]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-05-14T15:08:06 PDT" finished-at="2021-05-14T15:08:06 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.testngfile.TestNGAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
